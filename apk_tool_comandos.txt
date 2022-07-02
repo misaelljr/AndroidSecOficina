@@ -1,0 +1,3 @@
+# Descompilar app
+
+java -jar d path_app.apk -o path_result

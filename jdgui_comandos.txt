@@ -1,0 +1,3 @@
+# Abrir código do app no JD-GUI
+
+java -jar jd-gui.jar vulnapp.jar

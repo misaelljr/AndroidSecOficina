@@ -1,0 +1,6 @@
+# Gerar arquivo .jar do app
+
+
+dex2jar.sh app.apk -o app.jar
+
+
